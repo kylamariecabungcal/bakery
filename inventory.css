@@ -1,0 +1,35 @@
+.head{
+    display: inline;
+   
+}
+
+header{
+    padding: 2px;
+    background-color:khaki;
+
+}
+.side{
+    list-style-type: none;
+    text-decoration: none;
+}
+.bar{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.pos{
+    text-decoration: none;
+}
+.sidebar{
+    position: fixed;
+    background-color: beige;
+    height: 93%;
+    width: 223px;
+    margin-top: 4%;
+}
+body{
+    background-color: #fafbfd;
+}
+
+
+
+
